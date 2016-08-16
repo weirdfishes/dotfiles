@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/sharatv/hackpoly-2016/ReciMe/views'
+let g:netrw_dirhist_2='/Users/sharatv/code/ruby-on-rails-tutorial/workspace/sample_app'
+let g:netrw_dirhist_3='/Users/sharatv/code/outco/homework/homework_folder/week2day1'
